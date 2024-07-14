@@ -1,9 +1,8 @@
 <?php
-	// require_once 'modele/dao/ArticleDao.php';
-	// require_once 'modele/dao/CategorieDao.php';
+	
 	require_once 'dao/ArticleDAO.php';
 	require_once 'dao/CategorieDAO.php';
-	//require_once 'modele/ConnexionManager.php';
+	
 
 	/**
 	 * Classe représentant notre controleur principal
